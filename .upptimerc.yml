@@ -4,7 +4,7 @@ repo: vigilant-octo-carnival # The name of this repository
 
 sites:
   - name: Plex
-    url: https://plex.gabebryk.com
+    url: https://plex.gabebryk.com/web/index.html
 
 assignees:
   - gabrielbryk
