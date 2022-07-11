@@ -4,9 +4,9 @@
     "url": "https://plex.gabebryk.com/web/index.html",
     "icon": "https://favicons.githubusercontent.com/plex.gabebryk.com",
     "slug": "plex",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.98%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 363,
     "timeYear": 363,
     "dailyMinutesDown": {
+      "2022-07-11": 0,
       "2022-07-05": 1
     }
   }
