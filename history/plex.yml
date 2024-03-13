@@ -1,7 +1,7 @@
 url: https://plex.gabebryk.com/web/index.html
-status: up
-code: 200
-responseTime: 265
-lastUpdated: 2024-03-12T23:08:37.789Z
+status: down
+code: 502
+responseTime: 135
+lastUpdated: 2024-03-13T05:08:46.275Z
 startTime: 2022-07-05T16:10:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
