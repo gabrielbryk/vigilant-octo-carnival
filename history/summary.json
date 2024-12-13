@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/plex.gabebryk.com.ico",
     "slug": "plex",
     "status": "up",
-    "uptime": "87.96%",
+    "uptime": "87.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.98%",
     "uptimeMonth": "98.01%",
     "uptimeYear": "86.04%",
     "time": 838,
-    "timeDay": 253,
-    "timeWeek": 327,
-    "timeMonth": 279,
+    "timeDay": 130,
+    "timeWeek": 320,
+    "timeMonth": 278,
     "timeYear": 842,
     "dailyMinutesDown": {
       "2024-12-10": 103,
@@ -94,8 +94,7 @@
       "2024-02-22": 772,
       "2024-01-09": 101,
       "2024-01-05": 27,
-      "2024-01-04": 914,
-      "2023-12-14": 138
+      "2024-01-04": 914
     }
   }
 ]
