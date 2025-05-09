@@ -6,17 +6,16 @@
     "slug": "plex",
     "status": "up",
     "uptime": "88.05%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "85.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "85.84%",
     "uptimeYear": "84.36%",
     "time": 855,
-    "timeDay": 198,
-    "timeWeek": 1172,
-    "timeMonth": 814,
+    "timeDay": 197,
+    "timeWeek": 1174,
+    "timeMonth": 810,
     "timeYear": 872,
     "dailyMinutesDown": {
-      "2025-05-08": 5,
       "2025-04-24": 1320,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
@@ -107,8 +106,7 @@
       "2024-05-30": 419,
       "2024-05-29": 177,
       "2024-05-23": 17,
-      "2024-05-20": 28,
-      "2024-05-09": 19
+      "2024-05-20": 28
     }
   }
 ]
